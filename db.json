@@ -1,0 +1,58 @@
+{
+  "title": "Wireless Noise-Cancelling Headphones",
+  "summary": "Experience premium sound quality and total comfort with these wireless noise-cancelling headphones. Perfect for travel, work, and everyday use.",
+  "thumbnail": {
+    "url": "https://example.com/images/headphones-thumbnail.png",
+    "public_id": "headphones_thumbnail_123"
+  },
+  "gallery": [
+    {
+      "url": "https://example.com/images/headphones-gallery-1.png",
+      "public_id": "headphones_gallery_1"
+    },
+    {
+      "url": "https://example.com/images/headphones-gallery-2.png",
+      "public_id": "headphones_gallery_2"
+    },
+    {
+      "url": "https://example.com/images/headphones-gallery-3.png",
+      "public_id": "headphones_gallery_3"
+    }
+  ],
+  "features": [
+    {
+      "title": "Active Noise Cancellation",
+      "content": ["Blocks out unwanted background noise for an immersive sound experience."]
+    },
+    {
+      "title": "Long Battery Life",
+      "content": ["Up to 30 hours of continuous playtime on a single charge."]
+    },
+    {
+      "title": "Comfortable Fit",
+      "content": ["Soft ear cushions and adjustable headband for all-day comfort."]
+    }
+  ],
+  "variations": {
+    "colors": ["Black", "White", "Gray"],
+    "sizes": ["Standard"]
+  },
+  "campaign": {
+    "title": "Holiday Sale",
+    "state": "on-sale"
+  },
+  "price": 299.99,
+  "category": "64fa9ed16b83f67bcb1a2345",
+  "brand": "64fa9ed16b83f67bcb1a2346",
+  "store": "64fa9ed16b83f67bcb1a2347",
+  "buyers": [
+    "64fa9ed16b83f67bcb1a2348",
+    "64fa9ed16b83f67bcb1a2349"
+  ],
+  "reviews": [
+    "64fa9ed16b83f67bcb1a2350",
+    "64fa9ed16b83f67bcb1a2351"
+  ],
+  "createdAt": "2023-11-10T08:45:00.000Z",
+  "updatedAt": "2023-11-12T09:00:00.000Z"
+}
